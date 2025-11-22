@@ -1,0 +1,8 @@
+{
+  "name": "CodeMaster AI",
+  "description": "A multi-language coding mastery platform designed to challenge logical thinking and algorithmic skills in C, C++, Python, Java, and more, with daily tasks and AI-powered review.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
